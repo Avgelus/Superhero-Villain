@@ -61,4 +61,5 @@ function addNewCharacter(e){
        url : e.target.image.value 
    }
    showMain(newHeroObj)
+   e.target.reset()
 }
