@@ -1,16 +1,28 @@
 h1 {
     text-align: center;
     color: black;
+    font-style: italic;
+    font-size:xx-large;
+    font-family: cursive;
 }
 
 #character-details {
     text-align: center;
     font-size: xx-small;
+    font-style:oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #newCharacter {
     text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+input {
+    width: 10%;
+    
+}
+
 
 body {
     background-color: lightslategray;
@@ -23,6 +35,8 @@ body {
 #hero-list {
     text-align: left;
     width: 100px;
+    font-size:16px;
+    font-family:fantasy
     
     
 
