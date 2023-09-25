@@ -1,2 +1,22 @@
+h1 {
+    text-align: center;
+    color: black;
+}
 
-    
+#character-details {
+    text-align: center;
+    font-size: xx-small;
+}
+
+#newCharacter {
+    text-align: center;
+}
+
+body {
+    background-color: lightslategray;
+}
+
+#heroImg {
+    font-size: large;
+}
+
