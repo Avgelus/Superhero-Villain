@@ -1,0 +1,86 @@
+{
+    "Heros/Villains" : [
+        {
+    "id": "644",
+    "name": "Superman",
+    "intelligence": "94",
+    "strength": "100",
+    "speed": "100",
+    "durability": "100",
+    "power": "100",
+    "combat": "85",
+    "url": "https://www.superherodb.com/pictures2/portraits/10/100/791.jpg"
+
+},
+
+{
+    "id": "620",
+    "name": "Spider-Man",
+    "intelligence": "90",
+    "strength": "55",
+    "speed": "67",
+    "durability": "75",
+    "power": "74",
+    "combat": "85",
+    "url": "https://www.superherodb.com/pictures2/portraits/10/100/133.jpg"
+},
+
+{
+    "id": "70",
+    "name": "Batman",
+    "intelligence": "100",
+    "strength": "26",
+    "speed": "27",
+    "durability": "50",
+    "power": "47",
+    "combat": "100",
+    "url": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+},
+
+{
+    "id" : "687",
+    "name": "Venom",
+    "intelligence": "75",
+    "strength": "57",
+    "speed": "65",
+    "durability": "84",
+    "power": "86",
+    "combat": "84",
+    "url": "https://www.superherodb.com/pictures2/portraits/10/100/22.jpg" 
+
+},
+
+{
+    "id": "405",
+    "name": "Lex Luthor",
+    "intelligence": "100",
+    "strength": "53",
+    "speed": "25",
+    "durability": "65",
+    "power": "68",
+    "combat": "70",
+    "url": "https://www.superherodb.com/pictures2/portraits/10/100/727.jpg"    
+},
+{
+  "id": "370",
+  "name": "Joker",
+  "intelligence": "100",
+  "strength": "10",
+  "speed": "12",
+  "durability": "60",
+  "power": "43",
+  "combat": "70",
+  "url": "https://www.superherodb.com/pictures2/portraits/10/100/719.jpg"       
+  }
+
+    ]
+}
+
+
+
+
+
+
+
+
+
