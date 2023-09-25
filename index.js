@@ -17,19 +17,19 @@ const showMain = (heroObj) => {
         heroImg.style.width = '500px'
         heroImg.style.height = '500px'
         const heroName = document.getElementById('name')
-        heroName.textContent = heroObj.name
+        heroName.textContent = `Name: ${heroObj.name}`
         const heroIntel = document.getElementById('intelligence')
-        heroIntel.textContent = heroObj.intelligence
+        heroIntel.textContent = `Intelligence: ${heroObj.intelligence}`
         const heroStrength =document.getElementById('strength')
-        heroStrength.textContent = heroObj.strength 
+        heroStrength.textContent = `Strength: ${heroObj.strength}` 
         const heroSpeed = document.getElementById('speed')
-        heroSpeed.textContent = heroObj.speed 
+        heroSpeed.textContent = `Speed: ${heroObj.speed}` 
         const heroDurability = document.getElementById('durability')
-        heroDurability.textContent = heroObj.durability 
+        heroDurability.textContent = `Durability: ${heroObj.durability}` 
         const heroPower = document.getElementById('power')
-        heroPower.textContent = heroObj.power 
+        heroPower.textContent = `Power: ${heroObj.power}` 
         const heroCombat = document.getElementById('combat')
-        heroCombat.textContent = heroObj.combat
+        heroCombat.textContent = `Combat: ${heroObj.combat}`
     }
     li.addEventListener('mouseover', showImg)
     function showImg(){
@@ -41,6 +41,9 @@ const showMain = (heroObj) => {
 function heroVillain(heroArray){
     console.log(heroArray)
     heroArray.forEach(showMain)
+
+
+    
 }
 
 const form = document.getElementById('newCharacter')
@@ -55,7 +58,7 @@ function addNewCharacter(e){
        durability : e.target.durability.value,
        power : e.target.power.value,
        combat : e.target.combat.value,
-       image : e.target.image.value 
+       url : e.target.image.value 
    }
    showMain(newHeroObj)
 }
