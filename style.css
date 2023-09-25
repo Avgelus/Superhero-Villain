@@ -17,6 +17,13 @@ body {
 }
 
 #heroImg {
-    font-size: large;
+    font-size: small;
 }
 
+#hero-list {
+    text-align: left;
+    width: 100px;
+    
+    
+
+}
