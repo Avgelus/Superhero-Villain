@@ -1,7 +1,7 @@
 {
-    "Heros/Villains" : [
+    "Heros-Villains" : [
         {
-    "id": "644",
+    "id": 1,
     "name": "Superman",
     "intelligence": "94",
     "strength": "100",
@@ -14,7 +14,7 @@
 },
 
 {
-    "id": "620",
+    "id": 2,
     "name": "Spider-Man",
     "intelligence": "90",
     "strength": "55",
@@ -26,7 +26,7 @@
 },
 
 {
-    "id": "70",
+    "id": 3,
     "name": "Batman",
     "intelligence": "100",
     "strength": "26",
@@ -38,7 +38,7 @@
 },
 
 {
-    "id" : "687",
+    "id" : 4,
     "name": "Venom",
     "intelligence": "75",
     "strength": "57",
@@ -51,7 +51,7 @@
 },
 
 {
-    "id": "405",
+    "id": 5,
     "name": "Lex Luthor",
     "intelligence": "100",
     "strength": "53",
@@ -62,7 +62,7 @@
     "url": "https://www.superherodb.com/pictures2/portraits/10/100/727.jpg"    
 },
 {
-  "id": "370",
+  "id": 6,
   "name": "Joker",
   "intelligence": "100",
   "strength": "10",
